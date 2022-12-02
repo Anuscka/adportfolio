@@ -264,6 +264,41 @@ body {
       position: static;
       transform: rotate(0deg);
     }
+    
+@media (max-width: 991px) {
+    h1 {
+    font-size: 40px;
+}
+
+@media (max-width: 991px) {
+    h2 {
+    font-size: 38px;
+}
+
+@media (max-width: 991px) {
+    h3 {
+    font-size: 36px;
+}
+
+@media (max-width: 991px) {
+    h4 {
+    font-size: 33px;
+}
+
+@media (max-width: 991px) {
+  h5 {
+    font-size: 32px;
+}
+
+@media (max-width: 991px) {
+  p {
+  font-size: 32px;
+}
+
+@media (max-width: 991px) {
+  .fa {
+  font-size: 35px;
+}
 
   #title {
     text-align: center;
