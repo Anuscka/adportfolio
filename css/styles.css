@@ -251,6 +251,10 @@ body {
   margin: 0 1% 3%;
 }
 
+.dark {
+  color: #f68ba6;
+}
+
 /* Footer */
 
 #contact{
