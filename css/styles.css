@@ -4,19 +4,29 @@ h1, h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat-Bold" , sans-serif;
 }
 
-h2{
-  font-size: 3rem;
+h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 22px;
   line-height: 1.5;
   text-align: center;
 }
 
-h3{
+h3 {
+  font-size: 21px;
   font-weight: 700;
 }
 
-p{
+h4, h5 {
+  font-size: 20px;
+}
+
+p {
   color: #000;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 body {
