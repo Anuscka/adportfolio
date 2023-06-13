@@ -32,6 +32,13 @@ body {
   font-family: 'Montserrat';
 }
 
+#links {
+  font-size: 18px;
+  font-family: 'Montserrat-Light', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
 /* Headings */
 .big-heading {
   font-family: 'Montserrat-Black', sans-serif;
@@ -212,13 +219,6 @@ body {
   }
 }
 
-#links {
-  font-size: 18px;
-  font-family: 'Montserrat-Light', sans-serif;
-  font-weight: 400;
-  text-align: center;
-  
-}
 
 /* Pricing */
 #education {
